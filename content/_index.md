@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title: ''
+title: 'Alice Wu 吴健雄牛'
 date: 2022-10-24
 type: landing
 
